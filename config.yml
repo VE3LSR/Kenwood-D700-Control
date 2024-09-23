@@ -1,0 +1,14 @@
+port: /dev/ttyUSB2
+repeaters:
+    ve3lsr-1:
+        rx: 146.850
+        offset: "-600"
+        tone: 156.7
+    ve3lsr-2:
+        rx: 147.315
+        offset: "+600"
+        tone: 156.7
+    ve3lsr-uhf:
+        rx: 442.575
+        offset: "+5000"
+        tone: 103.5
